@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//web/"}
+{"dg-publish":true,"permalink":"//web/","tags":["gardenEntry"]}
 ---
 
 # 域名
